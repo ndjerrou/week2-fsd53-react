@@ -1,4 +1,4 @@
-# React projects
+  # React projects
 
 - Dealing with formulas
 
@@ -12,3 +12,7 @@
 4.  what si the purpose of the cleanup function
 
 [Repo ici](https://github.com/ndjerrou/2-useEffect)
+
+- Exercice 1 : useEffect
+
+[Repo ici](git remote add origin git@github.com:ndjerrou/3-useEffect_exercise_1.git)
