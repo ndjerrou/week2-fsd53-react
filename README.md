@@ -15,4 +15,4 @@
 
 - Exercice 1 : useEffect
 
-[Repo ici](git remote add origin git@github.com:ndjerrou/3-useEffect_exercise_1.git)
+[Repo ici](https://github.com/ndjerrou/3-useEffect_exercise_1)
