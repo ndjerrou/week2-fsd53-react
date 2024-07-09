@@ -16,3 +16,7 @@
 - Exercice 1 : useEffect
 
 [Repo ici](https://github.com/ndjerrou/3-useEffect_exercise_1)
+
+- Exercice 2 : useEffect et filtres dynamoiques
+
+[repo ici](https://github.com/ndjerrou/exo_filter_ue)
