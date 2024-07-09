@@ -19,4 +19,4 @@
 
 - Exercice 2 : useEffect et filtres dynamoiques
 
-[repo ici](https://github.com/ndjerrou/exo_filter_ue)
+[Repo ici](https://github.com/ndjerrou/exo_filter_ue)
