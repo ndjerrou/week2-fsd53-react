@@ -21,6 +21,12 @@
 
 [Repo ici](https://github.com/ndjerrou/exo_filter_ue)
 
+## Routing
+
+- Course : basics of routing with react-router-dom
+
+[Repo ici](https://github.com/ndjerrou/routing_basics_react_v6)
+
 - Project : make a clone of npmjs.com
 
 [Repo ici](https://github.com/ndjerrou/npmjs_clone)
