@@ -20,3 +20,7 @@
 - Exercice 2 : useEffect et filtres dynamoiques
 
 [Repo ici](https://github.com/ndjerrou/exo_filter_ue)
+
+- Project : make a clone of npmjs.com
+
+[Repo ici](https://github.com/ndjerrou/npmjs_clone)
