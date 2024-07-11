@@ -31,6 +31,12 @@
 
 [Repo ici](https://github.com/ndjerrou/npmjs_clone)
 
+## Redux 
+
+- Compréhension via useReducer
+
+[Repo ici](https://github.com/ndjerrou/init_redux_with_useReducer)
+
 ## Redux Tool Kit
 
 - Initation 
