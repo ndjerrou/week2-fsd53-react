@@ -33,12 +33,16 @@
 
 ## Redux 
 
-- Compréhension via useReducer
+- Découverte via l'exploration de useReducer
 
 [Repo ici](https://github.com/ndjerrou/init_redux_with_useReducer)
 
+- Gérer une liste de bugs avec useReducer
+
+[Repo ici](https://github.com/ndjerrou/useReducer-bugs)
+
 ## Redux Tool Kit
 
-- Initation 
+- Initation : gérer une liste de musiques et de films
 
 [Repo ici](https://github.com/ndjerrou/initiation_rtk)
